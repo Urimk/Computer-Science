@@ -21,7 +21,7 @@ import levels.WideEasyLevel;
  * @since 17.0.2
  *
  */
-public class Ass6Game {
+public class Arkanoid {
 
     /**
      * The Program starts here.
